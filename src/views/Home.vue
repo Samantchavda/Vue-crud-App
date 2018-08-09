@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <b-btn  @click="addCustomer">Add New Customer</b-btn>
-    <b-table>
+    <b-btn  @click="addCustomer">Add New Employee</b-btn>
+    <!-- <b-table>
 
-    </b-table>
+    </b-table> -->
   </div>
 </template>
 

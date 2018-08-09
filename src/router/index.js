@@ -15,7 +15,6 @@ const routes = new Router({
     {
       path: '/',
       redirect: '/home',
-      name: 'Home',
       component: DefaultContainer,
       children: [
         {
